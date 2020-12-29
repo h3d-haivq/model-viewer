@@ -1,0 +1,5 @@
+commit 0c37f8f9572cfc0f34ef1aacec0895f3555e6683
+Author: Emmett Lalish <elalish@google.com>
+Date:   Mon Dec 28 16:27:14 2020 -0800
+
+    remove quick-look-browsers (#1783)
